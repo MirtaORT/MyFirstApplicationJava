@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyFirstApplicationJava</string>
+    <string name="action_settings">Oocion1</string>
+    <string name="action_settings1">Oocion2</string>
+    <string name="action_settings2">Oocion3</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Sig</string>
+    <string name="previous">Ant</string>
+
+    <string name="hello_first_fragment">Hola ORT Almagro!!</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="button">Boton</string>
+
+</resources>
